@@ -1,0 +1,110 @@
+[
+  {
+    "question": "What are GitLab's core values?",
+    "reference": "Collaboration, Results for Customers, Efficiency, Diversity, Inclusion & Belonging, Iteration, and Transparency (CREDIT)."
+  },
+  {
+    "question": "How does GitLab handle remote work?",
+    "reference": "Create a dedicated workspace; separate work from life with ramp-on/ramp-off times; regularly engage with others (e.g. virtual coffee chats); respect the routine but iterate; embrace change and over-communicate."
+  },
+  {
+    "question": "Describe the process for a new hire onboarding.",
+    "reference": "Three-week, self-driven process via GitLab issue template; handbook-first; dogfooding for technical proficiency; onboarding buddy and required coffee chats; week one paperwork and values, week three job-specific training."
+  },
+  {
+    "question": "What is the company policy on open source contributions?",
+    "reference": "Everyone can contribute; transparent open core model; contributions subject to DCO or CLA."
+  },
+  {
+    "question": "How does GitLab measure engineering productivity?",
+    "reference": "DORA metrics and internal Merge Request (MR) Rate; focus on speed, volume, and stability of code delivery."
+  },
+  {
+    "question": "What is the GitLab Handbook and who is it for?",
+    "reference": "Single source of truth for how GitLab operates; for team members, leadership, potential applicants, and current/potential users; open to the world."
+  },
+  {
+    "question": "What does handbook-first mean at GitLab?",
+    "reference": "Work handbook-first: contribute to the handbook, link to it when answering questions, add new information there; people leaders hold teams accountable and model being handbook-first."
+  },
+  {
+    "question": "How should team members use the handbook when answering questions?",
+    "reference": "Provide links to handbook content when answering; if information does not exist, add it to the handbook; understand what is internal-only and keep public information in the public handbook."
+  },
+  {
+    "question": "What are GitLab's writing style guidelines for the handbook?",
+    "reference": "Keep pages short and succinct; avoid unstructured content like FAQs and long link lists; use headings liberally; prefer contributable diagrams (e.g. Mermaid, PlantUML)."
+  },
+  {
+    "question": "Who can merge changes to the handbook?",
+    "reference": "Need developer access to the relevant handbook project; team members should have it by default; merge with confidence when pipeline passes; do not use merge immediately."
+  },
+  {
+    "question": "What is the purpose of the handbook's table of contents?",
+    "reference": "Add a ToC for pages with more than two headings or larger than a single screen; copy from a standard MR template."
+  },
+  {
+    "question": "How does GitLab define transparency as a value?",
+    "reference": "Transparency is one of the CREDIT values; the handbook itself is open to the world as an example of transparency."
+  },
+  {
+    "question": "What should new employees do with information that is not yet in the handbook?",
+    "reference": "Add it to the handbook; link to the handbook when answering questions rather than duplicating content."
+  },
+  {
+    "question": "Where should feedback or questions about the handbook go?",
+    "reference": "Direct to the #handbook Slack channel."
+  },
+  {
+    "question": "What is the relationship between the handbook and talent acquisition?",
+    "reference": "The handbook is a talent acquisition tool; candidates use it to learn about expectations, compensation, benefits, and values; team members share relevant handbook content with applicants."
+  },
+  {
+    "question": "Why does GitLab avoid FAQs in the handbook?",
+    "reference": "FAQs are hard to keep up-to-date; put answers in the most relevant place with descriptive headings instead; state facts as facts."
+  },
+  {
+    "question": "What are operating principles and how do they differ from values?",
+    "reference": "Values drive behavior; removing an operating principle means it was not actively driving behavior, not that the company stopped believing in it; prune to avoid becoming like every other company."
+  },
+  {
+    "question": "How do you remove an operating principle from the handbook?",
+    "reference": "Submit a merge request with the change and explain reasons in the description; the GitLab Value Handbook Page owner must approve and merge."
+  },
+  {
+    "question": "What does GitLab recommend for referring to values in conversation?",
+    "reference": "Mention the specific value (e.g. name it) rather than generalizations like \"not a value add\"; values are powerful when individually understood and applied."
+  },
+  {
+    "question": "What is the CREDIT acronym at GitLab?",
+    "reference": "CREDIT stands for Collaboration, Results for Customers, Efficiency, Diversity (Inclusion & Belonging), Iteration, and Transparency—the six core values."
+  },
+  {
+    "question": "How does GitLab encourage contribution from the community?",
+    "reference": "Everyone can contribute; transparent open core; welcome suggestions; DCO or CLA for contributions; encourage contributors to mention product managers early to avoid conflicts."
+  },
+  {
+    "question": "What is the handbook's role in product direction?",
+    "reference": "Product direction, strategy, and vision are documented in the handbook; gives users a glimpse into priorities and helps potential users make informed decisions."
+  },
+  {
+    "question": "What should you do if you need permissions to commit directly to the handbook?",
+    "reference": "Submit a New Access Request issue and follow the access approval process; request Maintainer role for the appropriate handbook."
+  },
+  {
+    "question": "Why is the handbook described as inspiration for other companies?",
+    "reference": "GitLab hopes others emulate it; it is open and shows how a company can run; leadership outside GitLab may use it for their own processes."
+  },
+  {
+    "question": "Give the complete step-by-step process for a new hire from day one through onboarding.",
+    "reference": "Three-week, self-driven process via GitLab issue template; handbook-first; dogfooding for technical proficiency; onboarding buddy and required coffee chats; week one paperwork and values, week three job-specific training; ramp-on and ramp-off times; separate work from life."
+  },
+  {
+    "question": "What is the full definition of handbook-first and how should leaders and team members apply it?",
+    "reference": "Work handbook-first: contribute to the handbook, link to it when answering questions, add new information there; people leaders hold teams accountable and model being handbook-first; when answering, provide links to handbook content; if information does not exist, add it to the handbook."
+  },
+  {
+    "question": "Describe the complete relationship between the handbook, talent acquisition, and product direction.",
+    "reference": "The handbook is a talent acquisition tool; candidates use it to learn about expectations, compensation, benefits, and values; team members share relevant handbook content with applicants; product direction, strategy, and vision are documented in the handbook; gives users a glimpse into priorities and helps potential users make informed decisions."
+  }
+]
