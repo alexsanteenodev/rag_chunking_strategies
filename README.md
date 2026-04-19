@@ -2,6 +2,8 @@
 
 This project benchmarks three chunking strategies for the GitLab Handbook using LlamaIndex, FastEmbed, Postgres+pgvector, and RAGAS.
 
+[Full video here!](https://youtu.be/VfjIYjYFVt4)
+
 ## Structure
 
 - `raglab/` — Core modules (each class in its own file)
